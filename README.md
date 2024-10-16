@@ -1,1 +1,1 @@
-Visual programming projects,labs,activitise and assignmennts in c#
+Visual programming projects,labs,activities and assignmennts in c#
